@@ -1,7 +1,10 @@
 {
   "name": "tools",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": true,
+  "description": "it is package of useful tools",
+  "keywords": ["yafiet tool", "best tool for development"],
+  "author": "yafiet daniale",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
